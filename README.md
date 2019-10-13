@@ -12,3 +12,5 @@ Thus, for this project, we have many features, denoted as the Xs, including the 
 	- Support of parallel and GPU learning.
 	- Capable of handling large-scale data.
 	- A quick referece I adviced is from： https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
+	
+The dataset can be found at https://www.kaggle.com/c/avito-demand-prediction/data
